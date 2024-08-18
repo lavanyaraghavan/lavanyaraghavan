@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Lavanya
-- 👀 I’m interested in IT Technologies
-- 🌱 I’ve done various projects in various technologies (Mobile app dev, Game programming, ML)
-- 💞️ I’m working as a Senior Tech Associate in BA Continuum Pvt. Ltd. cuurently.
-
+- 👀 Passionate about building scalable and efficient applications
+- 🌱 I’ve done various projects in various technologies (Full stack web app, REST API, Mobile app dev, Game programming, ML)
+- 💞️ My current role is Software Engineer at BA Continuum Pvt. Ltd.
